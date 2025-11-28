@@ -29,9 +29,11 @@
 - LinkedIn <a href="https://www.linkedin.com/in/emanuel-zapata/">
   <img align="left" alt="Emanuel's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+
 - Github <a href="https://github.com/emanuelzapata">
   <img align="left" alt="Emanuel's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+
 - Medium <a href="https://medium.com/@manny_97807">
   <img align="left" alt="Emanuel's Medium" width="22px" src="https://img.icons8.com/?size=100&id=110611&format=png&color=000000">
 </a>
