@@ -20,7 +20,7 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 ### About Me
- - Currently a full stack Software Developer 
+ - Currently a full stack Senior Software Developer 
  - Passionate about DevOps and Infrastructure Automation
  - Received a Bachelors of Science in Computer Science with a Minor in Applied Mathematics
 
